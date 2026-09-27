@@ -1,0 +1,16 @@
+{
+  "name": "Agro Mitra",
+  "short_name": "AgroMitra",
+  "description": "Transparent quality. Fair pricing. Trusted procurement.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a3a2a",
+  "icons": [
+    {
+      "src": "/oniontrust-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
